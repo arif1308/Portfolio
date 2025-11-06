@@ -23,6 +23,3 @@ It includes a working **contact form powered by EmailJS**, allowing visitors to 
 - **JavaScript (Vanilla)**
 - **EmailJS API**
 
----
-
-## 📂 Folder Structure
